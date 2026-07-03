@@ -1,7 +1,7 @@
 # lp-corretores
 
 
-Dentro, tem um arquivo dist, Agora é só:
+Agora é só:
 
 Abrir o cPanel da hospedagem
 Ir no Gerenciador de Arquivos
